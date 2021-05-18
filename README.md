@@ -1,3 +1,2 @@
 Hi! Im Zander_200!
-
-Java and C++ Dev :) (Also Python but we dont talk about that here)
+I like Python and Java development. Sometimes i use the [Minetest](https://minetest.net) LUA Modding API
