@@ -1,4 +1,4 @@
-Hi! Im Zander_200!
+Hi! Im Zander!
 I like Python, Java and C++ development. Sometimes i use the [Minetest](https://minetest.net) LUA Modding API
 
 #### About me
