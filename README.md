@@ -1,6 +1,8 @@
 Hi! Im Zander!
 I like Python, Java and C++ development. Sometimes i use the [Minetest](https://minetest.net) LUA Modding API
 
+[My ZGroup Bio Page](http://bio.zgroup.rf.gd/zander/)
+
 #### About me
 - [x] Nerd
 
