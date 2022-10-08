@@ -1,12 +1,21 @@
 Hi! Im Zander!
-I like Python, Java and C++ development. Sometimes i use the [Minetest](https://minetest.net) LUA Modding API
+Fullstack Developer
 
-i do the [funny](https://zgroup.ml)
-you should listen to [the funny](https://beatslist.ml) too!
+Services [Monitoring](https://stats.uptimerobot.com/DE98lfo3o4): <br>
+[zgroup.ml](https://zgroup.ml)<br>
+[beatslist.ml](https://beatslist.ml)<br>
+[powderclient.ml](https://powderclient.ml)<br>
+[zlnk.ml](https://zlnk.ml)<br>
+[exoshort.cf](https://exoshort.cf)<br>
 
 
 #### About me
 - [x] Nerd
+
+#### Skills Summary
+- Java
+- Python
+- HTML/CSS/JS
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ChefZander&count_private=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
