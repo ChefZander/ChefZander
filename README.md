@@ -13,4 +13,4 @@ Im Zander!<br>I code a lot, i just forgor to make repos.
 ![](https://github-profile-trophy.vercel.app/?username=ChefZander&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChefZander&icon=2&color=4)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=ChefZander&icon=2&color=4)
